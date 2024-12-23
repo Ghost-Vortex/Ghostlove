@@ -1,0 +1,2 @@
+# Ghostlove
+yandex
